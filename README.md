@@ -81,6 +81,7 @@
     </a>
     <a href="https://github.com/TuroTheReal" target="_blank">
       <img src="https://img.icons8.com/fluency/48/000000/github.png" alt="GitHub" />
+        <p>https://github.com/TuroTheReal</p>
     </a>
   </p>
 </div>
