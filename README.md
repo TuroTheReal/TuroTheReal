@@ -47,10 +47,10 @@
 
 <div align="center">
   <a href="https://github.com/TuroTheReal/minishell">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TuroTheReal&repo=project1&theme=nightowl" alt="Project 1" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TuroTheReal&repo=minishell&theme=nightowl" alt="minishell" />
   </a>
   <a href="https://github.com/TuroTheReal/inception">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TuroTheReal&repo=project2&theme=nightowl" alt="Project 2" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TuroTheReal&repo=inception&theme=nightowl" alt="inception" />
   </a>
 </div>
 
