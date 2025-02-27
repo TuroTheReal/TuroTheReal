@@ -65,12 +65,3 @@
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<!-- 
-Add this to your profile's README.md to get the animated snake contribution graph:
-- Create a GitHub Action workflow file at `.github/workflows/snake.yml` with the content from the repository:
-  https://github.com/Platane/snk
-
-The animated line separators are from:
-- https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif
-- https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif
--->
