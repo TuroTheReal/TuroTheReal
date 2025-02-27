@@ -47,10 +47,10 @@
 
 <div align="center">
   <a href="https://github.com/TuroTheReal/minishell">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TuroTheReal&repo=minishell&theme=nightowl" alt="minishell" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TuroTheReal&repo=minishell&theme=radical" alt="minishell" />
   </a>
   <a href="https://github.com/TuroTheReal/inception">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TuroTheReal&repo=inception&theme=nightowl" alt="inception" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TuroTheReal&repo=inception&theme=dark" alt="inception" />
   </a>
 </div>
 
@@ -59,7 +59,7 @@
 ## <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="30"> GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TuroTheReal&show_icons=true&theme=nightowl" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=TuroTheReal&show_icons=true&theme=gruvbox" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=TuroTheReal&theme=nightowl" alt="GitHub Streak" />
 </div>
 
