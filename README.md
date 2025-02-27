@@ -13,8 +13,11 @@
   
   <p align="left">
     • 🔭 I'm currently working on **[my personnal portfolio]**
+    
     • 🌱 I'm learning **[C++, JS & Python]**
+    
     • 💬 Ask me about **[anything]**
+    
     • ⚡ Fun fact: **[I like durian]**
   </p>
 </div>
