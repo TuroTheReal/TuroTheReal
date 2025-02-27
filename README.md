@@ -61,5 +61,6 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=TuroTheReal&show_icons=true&theme=radical" alt="GitHub Stats" height="200" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TuroTheReal&theme=radical" alt="Top Languages" height="200" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TuroTheReal&theme=radical&layout=compact" alt="Top Languages" width="600" />
+  
 </div>
