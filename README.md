@@ -1,7 +1,7 @@
 # Hello World! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Tech+Enthusiast;Continuous+Learner" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Tech+Enthusiast;Continuous+Learner" alt="Typing SVG" />
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -11,17 +11,12 @@
 <div align="center">
   
   <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="50" height="50" alt="JavaScript" />
-  <img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="50" height="50" alt="React" />
   <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="50" height="50" alt="VSCode" />
   <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="70" height="50" alt="Git" />
   <img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" width="50" height="50" alt="GitHub" />
   <img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="50" height="50" alt="HTML" />
   <img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="50" height="50" alt="CSS" />
   <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="50" height="50" alt="Python" />
-  <img src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="50" height="50" alt="NodeJS" />
-  <img src="https://i.giphy.com/media/Sr8xDpMwVKOHUWDVRD/200.webp" width="50" height="50" alt="Bootstrap" />
-  <img src="https://media.giphy.com/media/wgFWLRiND4bkyYR4IN/giphy.gif" width="50" height="50" alt="TypeScript" />
-  <img src="https://media.giphy.com/media/kHlrPbN9zaoOo7KXDo/giphy.gif" width="50" height="50" alt="PHP" />
 
 </div>
 
