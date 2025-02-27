@@ -59,8 +59,9 @@
 ## <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="30"> GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TuroTheReal&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TuroTheReal&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=TuroTheReal&show_icons=true&theme=radical" alt="GitHub Stats" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TuroTheReal&theme=radical" alt="Top Languages" width="400" />
 </div>
+
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
