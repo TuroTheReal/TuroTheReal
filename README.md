@@ -10,7 +10,7 @@
 ## <img src="https://github.com/7oSkaaa/7oSkaaa/raw/main/Images/about_me.gif?raw=true" width="30"> About Me
 
 <div align="center">
-  <img align="right" alt="Coding" width="200" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif">
+  <img align="right" alt="Coding" width="300" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif" style="margin-bottom: -10px;">
   
   <p align="left" style="margin-left: 20px; line-height: 1.6;">
     • 🔭 I'm currently working on my personal portfolio.</br>
