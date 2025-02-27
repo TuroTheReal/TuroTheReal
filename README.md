@@ -13,13 +13,8 @@
   
   <p align="left">
     • 🔭 I'm currently working on **[my personnal portfolio]**
-    
     • 🌱 I'm learning **[C++, JS & Python]**
-    
-    • 👯 I'm looking to collaborate on **[interesting projects(web, AI, data or CyberSecurity)]**
-    
     • 💬 Ask me about **[anything]**
-    
     • ⚡ Fun fact: **[I like durian]**
   </p>
 </div>
@@ -46,10 +41,10 @@
 
 <div align="center">
   <a href="https://github.com/TuroTheReal/minishell">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TuroTheReal&repo=project1&theme=tokyonight" alt="Project 1" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TuroTheReal&repo=project1&theme=nightowl" alt="Project 1" />
   </a>
   <a href="https://github.com/TuroTheReal/inception">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TuroTheReal&repo=project2&theme=tokyonight" alt="Project 2" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TuroTheReal&repo=project2&theme=nightowl" alt="Project 2" />
   </a>
 </div>
 
@@ -58,8 +53,8 @@
 ## <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="30"> GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TuroTheReal&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TuroTheReal&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=TuroTheReal&show_icons=true&theme=nightowl" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TuroTheReal&theme=nightowl" alt="GitHub Streak" />
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
