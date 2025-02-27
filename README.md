@@ -63,6 +63,3 @@
   <img src="https://github-readme-stats.vercel.app/api?username=TuroTheReal&show_icons=true&theme=radical" alt="GitHub Stats" height="200" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TuroTheReal&theme=radical" alt="Top Languages" height="200" />
 </div>
-
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
