@@ -47,10 +47,10 @@
 
 <div align="center">
   <a href="https://github.com/TuroTheReal/minishell">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TuroTheReal&repo=minishell&theme=dracula" alt="minishell" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TuroTheReal&repo=minishell&theme=radical" alt="minishell" />
   </a>
   <a href="https://github.com/TuroTheReal/inception">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TuroTheReal&repo=inception&theme=dracula" alt="inception" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TuroTheReal&repo=inception&theme=radical" alt="inception" />
   </a>
 </div>
 
@@ -59,8 +59,8 @@
 ## <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="30"> GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TuroTheReal&show_icons=true&theme=dracula" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TuroTheReal&theme=dracula" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=TuroTheReal&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TuroTheReal&theme=radical" alt="GitHub Streak" />
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
