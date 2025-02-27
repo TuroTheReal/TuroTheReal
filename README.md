@@ -1,4 +1,4 @@
-# Hello, welcome to my GitHub! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
+# Hello, welcome to my GitHub! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" align="center">
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer+In+Progress;Tech+Enthusiast;Continuous+Learner" alt="Typing SVG" />
@@ -10,7 +10,7 @@
 ## <img src="https://github.com/7oSkaaa/7oSkaaa/raw/main/Images/about_me.gif?raw=true" width="30"> About Me
 
 <div align="center">
-  <img align="right" alt="Coding" width="200" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+  <img align="right" alt="Coding" width="200" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif">
   
   <p align="left" style="margin-left: 20px; line-height: 1.6;">
     • 🔭 I'm currently working on my personal portfolio.</br>
