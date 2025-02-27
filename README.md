@@ -15,10 +15,15 @@
   
   <p align="left" style="margin-left: 20px; line-height: 1.6;">
     • 🔭 I'm currently working on **[my personal portfolio]**  
+    
     • 🌱 I'm learning **[C++, JS & Python]**  
+    
     • ⚡ Fun fact: **[I like durian]**
+    
     • 📧 <a href="mailto:your.email@gmail.com">Feel free to reach me out by mail</a>
+    
     • 👔 <a href="https://www.linkedin.com/in/arthurbernard92/">Or on LinkedIn</a>
+    
   </p>
     
   </p>
