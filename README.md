@@ -59,25 +59,9 @@
 
 ## <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="30"> GitHub Stats
 
-<div align="center">
+<div align="center" style="display: flex; justify-content: center; gap: 20px;">
   <img src="https://github-readme-stats.vercel.app/api?username=TuroTheReal&show_icons=true&theme=radical" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TuroTheReal&theme=radical" alt="Top Languages" height="195px"/>
-</div>
-
-<div align="center" style="display: flex; justify-content: center; gap: 20px;">
-  <a href="https://github-readme-stats.vercel.app/api?username=TuroTheReal&show_icons=true&theme=radical&hide_title=true&layout=donut" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api?username=TuroTheReal&show_icons=true&theme=radical&hide_title=true&layout=donut" alt="GitHub Stats" width="400" height="200"/>
-  </a>
-  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=TuroTheReal&theme=radical&layout=donut" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TuroTheReal&theme=radical&layout=donut" alt="Top Languages" width="400" height="200"/>
-  </a>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TuroTheReal&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=TuroTheReal&theme=radical&layout=donut" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TuroTheReal&theme=radical&layout=donut" alt="Top Languages" width="400" height="200"/>
-  </a>
 </div>
 
 
