@@ -13,17 +13,13 @@
 <div align="center">
   <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
   
-  <p align="left">
-    
-    • 🔭 I'm currently working on **[my personnal portfolio]**
-    
-    • 🌱 I'm learning **[C++, JS & Python]**
-    
+  <p align="left" style="margin-left: 20px; line-height: 1.6;">
+    • 🔭 I'm currently working on **[my personal portfolio]**  
+    • 🌱 I'm learning **[C++, JS & Python]**  
     • ⚡ Fun fact: **[I like durian]**
-
-    - 📧 [Email Me](mailto:your.email@gmail.com)
-    
-    - 👔 [LinkedIn](https://www.linkedin.com/in/your-profile/)
+    • 📧 <a href="mailto:your.email@gmail.com">Feel free to reach me out by mail</a>
+    • 👔 <a href="https://www.linkedin.com/in/arthurbernard92/">Or on LinkedIn</a>
+  </p>
     
   </p>
 </div>
@@ -70,26 +66,6 @@
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## <img src="https://media.giphy.com/media/KcnlGHBpnKnjZIuCMv/giphy.gif" width="30"> Connect With Me
-
-<div align="center">
-  <p>
-    <a href="mailto:arthurbernard.dev@gmail.com" target="_blank">
-      <img src="https://img.icons8.com/fluency/48/000000/gmail-new.png" alt="Gmail" />
-        <p>arthurbernard.dev@gmail.com</p>
-    </a>
-    <a href="https://www.linkedin.com/in/arthurbernard92/" target="_blank">
-      <img src="https://img.icons8.com/fluency/48/000000/linkedin.png" alt="LinkedIn" />
-         <p>www.linkedin.com/in/arthurbernard92/</p>
-    </a>
-    <a href="https://github.com/TuroTheReal" target="_blank">
-      <img src="https://img.icons8.com/fluency/48/000000/github.png" alt="GitHub" />
-        <p>https://github.com/TuroTheReal</p>
-    </a>
-  </p>
-</div>
-
 <!-- 
 Add this to your profile's README.md to get the animated snake contribution graph:
 - Create a GitHub Action workflow file at `.github/workflows/snake.yml` with the content from the repository:
