@@ -73,6 +73,11 @@
   </a>
 </div>
 
-
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TuroTheReal&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=TuroTheReal&theme=radical&layout=donut" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TuroTheReal&theme=radical&layout=donut" alt="Top Languages" width="400" height="200"/>
+  </a>
+</div>
 
 
