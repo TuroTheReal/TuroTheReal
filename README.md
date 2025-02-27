@@ -64,7 +64,14 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TuroTheReal&theme=radical" alt="Top Languages" height="195px"/>
 </div>
 
-
+<div align="center">
+  <a href="https://github-readme-stats.vercel.app/api?username=TuroTheReal&show_icons=true&theme=radical" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api?username=TuroTheReal&show_icons=true&theme=radical" alt="GitHub Stats" height="195px"/>
+  </a>
+  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=TuroTheReal&theme=radical" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TuroTheReal&theme=radical" alt="Top Languages" height="195px"/>
+  </a>
+</div>
 
 
 
