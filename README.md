@@ -17,7 +17,7 @@
     • 🔭 I'm currently working on **[my personal portfolio]**</br>
     • 🌱 I'm learning **[C++, JS & Python]**</br>
     • ⚡ Fun fact: **[I like durian]**</br></br>
-    Feel free to reach me out
+    Feel free to reach me out</br>
     • 📧 <a href="mailto:your.email@gmail.com">By Email</a></br>
     • 👔 <a href="https://www.linkedin.com/in/arthurbernard92/">Via LinkedIn</a></br>
   </p>
