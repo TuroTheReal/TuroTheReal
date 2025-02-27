@@ -1,6 +1,22 @@
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Développeur%20Web%20&%20Créateur%20d'Expériences%20Digitales&fontSize=30&fontAlign=center)
+
+![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white)
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=F75C7E&width=435&lines=Web+Developer;Digital+Experience+Creator;Passionate+Learner+%26+Explorer)
+
+![Stats](https://github-readme-stats.vercel.app/api?username=votre-utilisateur&show_icons=true&theme=radical)
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/votre-profil/)
+
+![Visitor Count](https://komarev.com/ghpvc/?username=your-username&color=blue)
+
+## 📂 Projects  
+- [Portfolio](https://votre-portfolio.com) — My portfolio website (not available yet).
+- [MiniShell](https://github.com/TuroTheReal/minishell) — shell coded in C  .
+- [To-Do App](https://github.com/TuroTheReal/inception) — Docker Environment.  
+
+
 👋 Welcome to my GitHub Profile!
-
-
 
 🚀 About Me
 
