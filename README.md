@@ -60,9 +60,14 @@
 ## <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="30"> GitHub Stats
 
 <div align="center" style="display: flex; flex-direction: column; justify-content: center; align-items: center;">
-  <img src="https://github-readme-stats.vercel.app/api?username=TuroTheReal&show_icons=true&theme=radical" alt="GitHub Stats" width="400" height="300" style="object-fit: contain;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TuroTheReal&theme=radical&layout=compact" alt="Top Languages" width="400" height="300" style="object-fit: contain;"/>
+  <div style="width: 400px; height: 300px; display: flex; justify-content: center; align-items: center;">
+    <img src="https://github-readme-stats.vercel.app/api?username=TuroTheReal&show_icons=true&theme=radical" alt="GitHub Stats" style="max-width: 100%; max-height: 100%;"/>
+  </div>
+  <div style="width: 400px; height: 300px; display: flex; justify-content: center; align-items: center;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TuroTheReal&theme=radical&layout=compact" alt="Top Languages" style="max-width: 100%; max-height: 100%;"/>
+  </div>
 </div>
+
 
 
 
