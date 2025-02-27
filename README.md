@@ -19,9 +19,11 @@
     
     • 🌱 I'm learning **[C++, JS & Python]**
     
-    • 💬 Ask me about **[anything]**
-    
     • ⚡ Fun fact: **[I like durian]**
+
+    - 📧 [Email Me](mailto:your.email@gmail.com)
+    
+    - 👔 [LinkedIn](https://www.linkedin.com/in/your-profile/)
     
   </p>
 </div>
