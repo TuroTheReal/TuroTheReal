@@ -59,7 +59,7 @@
 ## <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="30"> GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TuroTheReal&show_icons=true&theme=transparent" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=TuroTheReal&show_icons=true&theme=highcontrast" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=TuroTheReal&theme=synthwave" alt="GitHub Streak" />
 </div>
 
