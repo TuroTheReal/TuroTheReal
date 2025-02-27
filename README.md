@@ -12,6 +12,7 @@
   <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
   
   <p align="left">
+    
     • 🔭 I'm currently working on **[my personnal portfolio]**
     
     • 🌱 I'm learning **[C++, JS & Python]**
@@ -19,6 +20,7 @@
     • 💬 Ask me about **[anything]**
     
     • ⚡ Fun fact: **[I like durian]**
+    
   </p>
 </div>
 
