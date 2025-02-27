@@ -71,17 +71,16 @@
 
 <div align="center">
   <p>
-    <a href="mailto:your.email@example.com" target="_blank">
+    <a href="mailto:arthurbernard.dev@gmail.com" target="_blank">
       <img src="https://img.icons8.com/fluency/48/000000/gmail-new.png" alt="Gmail" />
+        <p>arthurbernard.dev@gmail.com</p>
     </a>
-    <a href="https://www.linkedin.com/in/yourprofile/" target="_blank">
+    <a href="https://www.linkedin.com/in/arthurbernard92/" target="_blank">
       <img src="https://img.icons8.com/fluency/48/000000/linkedin.png" alt="LinkedIn" />
+         <p>www.linkedin.com/in/arthurbernard92/</p>
     </a>
     <a href="https://github.com/TuroTheReal" target="_blank">
       <img src="https://img.icons8.com/fluency/48/000000/github.png" alt="GitHub" />
-    </a>
-    <a href="https://twitter.com/TuroTheReal" target="_blank">
-      <img src="https://img.icons8.com/fluency/48/000000/twitter.png" alt="Twitter" />
     </a>
   </p>
 </div>
