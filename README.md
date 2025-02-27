@@ -15,7 +15,7 @@
   
   <p align="left" style="margin-left: 20px; line-height: 1.6;">
     • 🔭 I'm currently working on my personal portfolio.</br>
-    • 🌱 Leaner at 42 Paris, aiming to finish around September.</br>
+    • 🌱 Leaner at 42 Paris.</br>
     • ⚡ Fun fact: I like durian.</br></br>
     Feel free to reach me out.</br>
     • 📧 <a href="mailto:your.email@gmail.com">By Email</a></br>
