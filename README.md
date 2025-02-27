@@ -64,12 +64,12 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TuroTheReal&theme=radical" alt="Top Languages" height="195px"/>
 </div>
 
-<div align="center">
+<div align="center" style="display: flex; justify-content: center; gap: 20px;">
   <a href="https://github-readme-stats.vercel.app/api?username=TuroTheReal&show_icons=true&theme=radical&hide_title=true&layout=donut" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api?username=TuroTheReal&show_icons=true&theme=radical&hide_title=true&layout=donut" alt="GitHub Stats" width="500px"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=TuroTheReal&show_icons=true&theme=radical&hide_title=true&layout=donut" alt="GitHub Stats" width="400" height="200"/>
   </a>
   <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=TuroTheReal&theme=radical&layout=donut" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TuroTheReal&theme=radical&layout=donut" alt="Top Languages" height="195px"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TuroTheReal&theme=radical&layout=donut" alt="Top Languages" width="400" height="200"/>
   </a>
 </div>
 
