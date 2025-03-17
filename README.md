@@ -10,7 +10,7 @@
 </br>
 
 <div align="center">
-  <img align="right" alt="Coding" width="300" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif">
+  <img align="right" alt="Coding" width="18.75rem" height="15.625rem" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif">
   
   <p align="left" style="margin-left: 20px; line-height: 1.6;">
     • 🔭 I'm currently working on my personal portfolio.</br>
