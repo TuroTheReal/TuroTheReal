@@ -13,8 +13,8 @@
   <img align="right" alt="Coding" width="250" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif">
   
   <p align="left" style="margin-left: 20px; line-height: 1.6;">
-    • 🔭 I'm currently working on my personal portfolio.</br>
     • 🌱 Leaner at 42 Paris.</br>
+    • 🔭 <a href="[mailto:your.email@gmail.com](https://arthur-portfolio.com/?utm_source=github&utm_medium=repository&utm_campaign=portfolio&utm_content=readme_link)">Discover my portfolio</a></br>
     • ⚡ Fun fact: I like durian.</br></br>
     Feel free to reach me out.</br>
     • 📧 <a href="mailto:your.email@gmail.com">By Email</a></br>
