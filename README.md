@@ -74,7 +74,7 @@
 
 </br>
 
-## <img src=https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif width="30"> DevOps Skills
+## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/PC.gif" width="30"> DevOps Skills
 
 ### 📚 Learned
 - **🐳 Docker & Docker Compose** - Container orchestration
