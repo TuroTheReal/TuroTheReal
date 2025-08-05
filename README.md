@@ -42,7 +42,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" width="50" alt="javascript logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="50" width="50" alt="typescript logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="50" width="50" alt="tailwind logo" />
-</div>
+</div></br>
+
 
 ### <p align="center"> 🐳 DevOps & Containerization</p>
 <div align="center">
@@ -50,7 +51,8 @@
   <img src="https://raw.githubusercontent.com/docker/compose/v2/logo.png" height="50" width="50" alt="docker compose logo" />
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" height="50" width="50" alt="git logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="50" width="50" alt="github logo" style="background-color: white; border-radius: 8px; padding: 5px;" />
-</div>
+</div></br>
+
 
 ### <p align="center"> 📊 Monitoring & Observability</p>
 <div align="center">
@@ -59,18 +61,20 @@
   <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" height="50" width="50" alt="kibana logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" height="50" width="50" alt="prometheus logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="50" width="50" alt="grafana logo" />
-</div>
+</div></br>
+
 
 ### <p align="center"> 🌐 Web Development</p>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" width="50" alt="html5 logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" width="50" alt="css3 logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="50" width="50" alt="figma logo" />
-</div>
+</div></br>
+
 
 </br>
 
-## <img src=https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif width="30"> DevOps Skills
+## <img src=https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif width="30"> DevOps Skills
 
 ### 📚 Learned
 - **🐳 Docker & Docker Compose** - Container orchestration
