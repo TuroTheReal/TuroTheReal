@@ -70,7 +70,7 @@
 
 </br>
 
-## <img src=https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif width="30"> DevOps Skills
+## <img src=https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif width="30"> DevOps Skills
 
 ### 📚 Learned
 - **🐳 Docker & Docker Compose** - Container orchestration
@@ -102,7 +102,7 @@
   </a>
 </div>
 
-## <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="30"> GitHub Stats
+## <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="30"> GitHub Stats
 
 </br>
 
