@@ -34,7 +34,7 @@
 
 </br>
 
-<p align="center"> 💻 Programming & Development</p>
+## <p align="center"> 💻 Programming & Development</p>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="50" width="50" alt="c logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="50" width="50" alt="cpp logo" />
@@ -44,15 +44,16 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="50" width="50" alt="tailwind logo" />
 </div>
 
-<p align="center"> 🐳 DevOps & Containerization</p>
+## <p align="center"> 🐳 DevOps & Containerization</p>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="50" width="50" alt="docker logo" />
   <img src="https://raw.githubusercontent.com/docker/compose/v2/logo.png" height="50" width="50" alt="docker compose logo" />
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" height="50" width="50" alt="git logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="50" width="50" alt="github logo" style="background-color: white; border-radius: 8px; padding: 5px;" />
+[  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="50" width="50" alt="github logo" style="background-color: white; border-radius: 8px; padding: 5px;" />](https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png
+https://cdn.worldvectorlogo.com/logos/git.svg)
 </div>
 
-<p align="center"> 📊 Monitoring & Observability</p>
+## <p align="center"> 📊 Monitoring & Observability</p>
 <div align="center">
   <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" height="50" width="50" alt="elasticsearch logo" />
   <img src="https://www.vectorlogo.zone/logos/elasticco_logstash/elasticco_logstash-icon.svg" height="50" width="50" alt="logstash logo" />
@@ -61,7 +62,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="50" width="50" alt="grafana logo" />
 </div>
 
-<p align="center"> 🌐 Web Development</p>
+### <p align="center"> 🌐 Web Development</p>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" width="50" alt="html5 logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" width="50" alt="css3 logo" />
@@ -86,7 +87,7 @@
 
 </br>
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> My Projects
+## <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30"> My Projects
 
 </br>
 
