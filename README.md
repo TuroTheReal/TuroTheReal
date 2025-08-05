@@ -46,7 +46,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="50" width="50" alt="docker logo" />
   <img src="https://raw.githubusercontent.com/docker/compose/v2/logo.png" height="50" width="50" alt="docker compose logo" />
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" height="50" width="50" alt="git logo" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" width="40" alt="GitHub logo" />
+  <img src="https://raw.githubusercontent.com/TuroTheReal/assets/main/github-white.svg" width="50" alt="GitHub logo blanc" />
 </div></br>
 
 
