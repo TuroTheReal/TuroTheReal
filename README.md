@@ -91,7 +91,7 @@
 </br>
 
 <div align="center">
-  <a href="https://github.com/TuroTheReal/Transcendence">
+  <a href=[https://github.com/TuroTheReal/Transcendence">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=TuroTheReal&repo=Transcendence&theme=radical" alt="transcendence" />
   </a>
   <a href="https://github.com/TuroTheReal/inception">
