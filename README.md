@@ -124,9 +124,8 @@
 
 </br>
 
-<div align="center">
-  https://github.com/7oSkaaa/7oSkaaa/blob/main/.github/workflows/Snake.yml
-</div>
+### 🐍 Snake Game Contributions Graph
+![snake gif](https://github.com/TuroTheReal/TuroTheReal/blob/output/github-contribution-grid-snake.svg)
 
 </br>
 
