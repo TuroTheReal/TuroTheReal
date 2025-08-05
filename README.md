@@ -102,7 +102,7 @@
   </a>
 </div>
 
-## <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="30"> GitHub Stats
+## <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="30"> GitHub Stats
 
 </br>
 
@@ -113,7 +113,7 @@
 
 </br>
 
-## <img> src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="30"> 2025/2026 DevOps Goals
+## <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="30"> 2025/2026 DevOps Goals
 
 - ✅ Master Docker containerization
 - ✅ Implement complete monitoring with logs, metrics & analytics (Elastic & Grafana Stacks, Google Analytics)
