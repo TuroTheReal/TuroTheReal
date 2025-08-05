@@ -124,8 +124,8 @@
 
 </br>
 
-### 🐍 Snake Game Contributions Graph
-![snake gif](https://github.com/turothereal/turothereal/blob/output/github-contribution-grid-snake.svg)
+### 🐍 My little snake
+![snake gif](https://github.com/TuroTheReal/TuroTheReal/blob/output/github-contribution-grid-snake.svg)
 
 </br>
 
