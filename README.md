@@ -41,14 +41,14 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" width="50" alt="python logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" width="50" alt="javascript logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="50" width="50" alt="typescript logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="50" width="50" alt="tailwind logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="50" width="50" alt="tailwind logo" />
 </div>
 
 <p align="center"> 🐳 DevOps & Containerization</p>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="50" width="50" alt="docker logo" />
   <img src="https://raw.githubusercontent.com/docker/compose/v2/logo.png" height="50" width="50" alt="docker compose logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" width="50" alt="git logo" style="background-color: white; border-radius: 8px; padding: 5px;" />
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" height="50" width="50" alt="git logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="50" width="50" alt="github logo" style="background-color: white; border-radius: 8px; padding: 5px;" />
 </div>
 
@@ -70,7 +70,7 @@
 
 </br>
 
-## <img src=https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif width="30"> DevOps Skills
+## <img src=https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif width="30"> DevOps Skills
 
 ### 📚 Learned
 - **🐳 Docker & Docker Compose** - Container orchestration
@@ -92,7 +92,7 @@
 
 <div align="center">
   <a href="https://github.com/TuroTheReal/Transcendence">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TuroTheReal&repo=minishell&theme=radical" alt="transcendence" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TuroTheReal&repo=Transcendence&theme=radical" alt="transcendence" />
   </a>
   <a href="https://github.com/TuroTheReal/inception">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=TuroTheReal&repo=inception&theme=radical" alt="inception" />
