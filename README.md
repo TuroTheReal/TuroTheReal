@@ -117,7 +117,7 @@
 
 </br>
 
-## <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="30"> 2025/2026 DevOps Goals
+## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="30"> 2025/2026 DevOps Goals
 
 - ✅ Master Docker containerization
 - ✅ Implement complete monitoring with logs, metrics & analytics (Elastic & Grafana Stacks, Google Analytics)
