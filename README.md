@@ -46,7 +46,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="50" width="50" alt="docker logo" />
   <img src="https://raw.githubusercontent.com/docker/compose/v2/logo.png" height="50" width="50" alt="docker compose logo" />
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" height="50" width="50" alt="git logo" />
-  <img src="https://raw.githubusercontent.com/turothereal/assets/main/github-white.svg" width="50" alt="GitHub logo blanc" />
+  <img src="https://raw.githubusercontent.com/TuroTheReal/assets/main/github-white-bgblack.png" width="50" alt="GitHub logo blanc" />
 </div></br>
 
 
@@ -121,11 +121,6 @@
 - 🎯 Start Infrastructure as Code with Terraform
 - 🎯 Learn AWS cloud fundamentals
 - 🎯 Explore Kubernetes basics
-
-</br>
-
-### 🐍 My little snake
-![snake gif](https://github.com/TuroTheReal/TuroTheReal/blob/output/github-contribution-grid-snake.svg)
 
 </br>
 
