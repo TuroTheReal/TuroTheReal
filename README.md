@@ -34,22 +34,25 @@
 
 </br>
 
-### 💻 Programming & Development
+<p align="center"> 💻 Programming & Development</p>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="50" width="50" alt="c logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="50" width="50" alt="cpp logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" width="50" alt="python logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" width="50" alt="javascript logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="50" width="50" alt="typescript logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="50" width="50" alt="tailwind logo" />
 </div>
 
-### 🐳 DevOps & Containerization
+<p align="center"> 🐳 DevOps & Containerization</p>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="50" width="50" alt="docker logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" width="50" alt="git logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="50" width="50" alt="github logo" />
+  <img src="https://raw.githubusercontent.com/docker/compose/v2/logo.png" height="50" width="50" alt="docker compose logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" width="50" alt="git logo" style="background-color: white; border-radius: 8px; padding: 5px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="50" width="50" alt="github logo" style="background-color: white; border-radius: 8px; padding: 5px;" />
 </div>
 
-### 📊 Monitoring & Observability
+<p align="center"> 📊 Monitoring & Observability</p>
 <div align="center">
   <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" height="50" width="50" alt="elasticsearch logo" />
   <img src="https://www.vectorlogo.zone/logos/elasticco_logstash/elasticco_logstash-icon.svg" height="50" width="50" alt="logstash logo" />
@@ -58,7 +61,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="50" width="50" alt="grafana logo" />
 </div>
 
-### 🌐 Web Development
+<p align="center"> 🌐 Web Development</p>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" width="50" alt="html5 logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" width="50" alt="css3 logo" />
@@ -67,7 +70,7 @@
 
 </br>
 
-## 🎯 DevOps Skills
+## <img src=https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif width="30"> DevOps Skills
 
 ### 📚 Learned
 - **🐳 Docker & Docker Compose** - Container orchestration
