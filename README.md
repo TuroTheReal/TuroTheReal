@@ -86,7 +86,7 @@
 
 </br>
 
-## <img src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" width="30"> My Projects
+## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="30"> My Projects
 
 </br>
 
@@ -121,6 +121,12 @@
 - 🎯 Start Infrastructure as Code with Terraform
 - 🎯 Learn AWS cloud fundamentals
 - 🎯 Explore Kubernetes basics
+
+</br>
+
+<div align="center">
+  https://github.com/7oSkaaa/7oSkaaa/blob/main/.github/workflows/Snake.yml
+</div>
 
 </br>
 
