@@ -86,7 +86,7 @@
 
 </br>
 
-## <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="30"> My Projects
+## <img src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" width="30"> My Projects
 
 </br>
 
@@ -113,7 +113,7 @@
 
 </br>
 
-## 💡 2025/2026 DevOps Goals
+## <img> src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="30"> 2025/2026 DevOps Goals
 
 - ✅ Master Docker containerization
 - ✅ Implement complete monitoring with logs, metrics & analytics (Elastic & Grafana Stacks, Google Analytics)
