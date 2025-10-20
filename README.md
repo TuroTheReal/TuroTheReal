@@ -12,12 +12,12 @@
 
 <div align="center">  
   <p align="left" style="margin-left: 20px; line-height: 1.6;">
-    • 🌱 Learner at 42 Paris - DevOps journey</br>
+    • ⚡ Actively looking for a DevOps/Cloud internship!</br>
+    • 🌱 Transcender at 42 Paris - DevOps/Cloud journey</br>
     • 🔭 <a href="https://arthur-portfolio.com/?utm_source=github&utm_medium=repository&utm_campaign=portfolio&utm_content=readme_link">Discover my portfolio</a></br>
     • 🐳 Currently working with Docker & Monitoring stacks</br>
     • 📊 Learning observability with ELK, Prometheus & Grafana</br>
-    • ☁️ Cloud & Infrastructure automation - coming soon!</br>
-    • ⚡ Fun fact: I like durian and debugging containers!</br></br>
+    • ☁️ Cloud & Infrastructure automation - coming soon!</br></br>
     Feel free to reach me out:</br>
     • 📧 <a href="mailto:arthurbernard.dev@gmail.com">By Email</a></br>
     • 👔 <a href="https://www.linkedin.com/in/arthurbernard92/">Via LinkedIn</a></br>
