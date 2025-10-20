@@ -12,6 +12,7 @@
 
 <div align="center">  
   <p align="left" style="margin-left: 20px; line-height: 1.6;">
+    •  <a href="https://glasck.com">Glasck: The futur of eSport data.</a></br>
     • ⚡ Actively looking for a DevOps/Cloud internship!</br>
     • 🌱 Transcender at 42 Paris - DevOps/Cloud journey</br>
     • 🔭 <a href="https://arthur-portfolio.com/?utm_source=github&utm_medium=repository&utm_campaign=portfolio&utm_content=readme_link">Discover my portfolio</a></br>
