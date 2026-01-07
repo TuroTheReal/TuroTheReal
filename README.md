@@ -135,10 +135,6 @@
 
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TuroTheReal&theme=radical&hide_border=true" alt="GitHub Streak" />
-</div>
-
 </br>
 
 ## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="30"> 2025 DevOps Roadmap
