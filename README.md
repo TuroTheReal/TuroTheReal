@@ -123,19 +123,20 @@
 
 </br>
 
-## <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="30"> Connect & Collaborate
+## <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="30"> GitHub Stats
 
 </br>
 
 <div align="center">
   
-### 📫 Let's Connect!
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=TuroTheReal&show_icons=true&theme=radical)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arthurbernard92/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arthurbernard.dev@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://arthur-portfolio.com)
-[![Glasck](https://img.shields.io/badge/Glasck-FF6B35?style=for-the-badge&logo=rocket&logoColor=white)](https://glasck.com)
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=TuroTheReal&layout=compact&theme=radical)
 
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TuroTheReal&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
 
 </br>
