@@ -110,17 +110,6 @@
 
 </br>
 
-<div align="center">
-  <a href="https://github.com/TuroTheReal/Transcendence">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TuroTheReal&repo=Transcendence&theme=radical" alt="Transcendence" />
-  </a>
-  <a href="https://github.com/TuroTheReal/inception">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TuroTheReal&repo=inception&theme=radical" alt="Inception" />
-  </a>
-</div>
-
-</br>
-
 ### 🎮 Glasck - Production eSports Platform
 **Role:** Infrastructure Lead & DevOps Engineer  
 **Tech Stack:** Docker Swarm, Traefik, Redis, PostgreSQL, Prometheus, Grafana, Loki, Promtail, Shell
