@@ -108,8 +108,6 @@
 
 ## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="30"> Featured Projects
 
-</br>
-
 ### 🎮 Glasck - Production eSports Platform
 **Role:** Infrastructure Lead & DevOps Engineer  
 **Tech Stack:** Docker Swarm, Traefik, Redis, PostgreSQL, Prometheus, Grafana, Loki, Promtail, Shell
