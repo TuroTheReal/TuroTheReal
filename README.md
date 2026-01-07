@@ -128,11 +128,12 @@
 </br>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TuroTheReal&show_icons=true&count_private=true&theme=radical&hide_border=true" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TuroTheReal&layout=compact&theme=radical&hide_border=true" alt="Top Languages"/>
-</div>
+  
+![TuroTheReal's GitHub stats](https://github-readme-stats.vercel.app/api?username=TuroTheReal&show_icons=true&theme=radical)
+  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TuroTheReal&layout=compact&theme=radical)
 
-</br>
+</div>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=TuroTheReal&theme=radical&hide_border=true" alt="GitHub Streak" />
