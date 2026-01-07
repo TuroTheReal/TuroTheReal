@@ -1,7 +1,7 @@
 # <p align="center"> Hello, welcome to my GitHub! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></p> 
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&center=true&vCenter=true&width=500&lines=Tech+enthusiast;Continuous+learner;DevOps+%26+Cloud+journey;AWS+%26+Terraform+Kubernetes+Ansible+focused" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&center=true&vCenter=true&width=500&lines=DevOps+Engineer+in+training;42+Paris+Transcender;Production+infra+experience;AWS+%7C+Kubernetes+%7C+Terraform+journey" alt="Typing SVG" />
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -12,13 +12,13 @@
 
 <div align="center">  
   <p align="left" style="margin-left: 20px; line-height: 1.6;">
-    • 🎮 <a href="https://glasck.com">Glasck: The futur of eSport data</a></br>
+    • 🎮 <a href="https://glasck.com">Glasck: Production eSports platform with full DevOps stack</a></br>
     • 🔭 <a href="https://arthur-portfolio.com/?utm_source=github&utm_medium=repository&utm_campaign=portfolio&utm_content=readme_link">Discover my portfolio</a></br>
-    • ⚡ Actively looking for a DevOps/Cloud internship!</br>
-    • 🌱 Transcender at 42 Paris - DevOps/Cloud journey</br>
-    • 🐳 Currently working with Docker & Monitoring stacks</br>
-    • 📊 Learning observability with ELK, Prometheus & Grafana</br>
-    • ☁️ Cloud & Infrastructure automation - coming soon!</br></br>
+    • ⚡ Actively looking for a 6-month DevOps/Cloud internship!</br>
+    • 🌱 Transcender at École 42 Paris - DevOps & Cloud specialization</br>
+    • 🐳 Running production infrastructure with Docker Swarm & full observability</br>
+    • ☁️ Currently diving into AWS, Kubernetes & Infrastructure as Code</br>
+    • 📊 Building cloud-native monitoring stacks (Prometheus, Grafana, Loki)</br></br>
     Feel free to reach me out:</br>
     • 📧 <a href="mailto:arthurbernard.dev@gmail.com">By Email</a></br>
     • 👔 <a href="https://www.linkedin.com/in/arthurbernard92/">Via LinkedIn</a></br>
@@ -27,101 +27,143 @@
 
 </br>
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30"> Current Skills & Technologies
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30"> Tech Stack & Skills
 
 </br>
 
-### <p align="center"> 💻 Programming & Development</p>
+### <p align="center"> 🐳 DevOps & Infrastructure</p>
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="50" width="50" alt="docker logo" />
+  <img src="https://raw.githubusercontent.com/docker/compose/v2/logo.png" height="50" width="50" alt="docker compose logo" />
+  <img src="https://www.vectorlogo.zone/logos/traefikio/traefikio-icon.svg" height="50" width="50" alt="traefik logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="50" width="50" alt="redis logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="50" width="50" alt="postgresql logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="50" width="50" alt="nginx logo" />
+</div></br>
+
+### <p align="center"> 📊 Monitoring & Observability</p>
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" height="50" width="50" alt="prometheus logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="50" width="50" alt="grafana logo" />
+  <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" height="50" width="50" alt="loki logo" />
+  <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" height="50" width="50" alt="elasticsearch logo" />
+  <img src="https://www.vectorlogo.zone/logos/elasticco_logstash/elasticco_logstash-icon.svg" height="50" width="50" alt="logstash logo" />
+  <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" height="50" width="50" alt="kibana logo" />
+</div></br>
+
+### <p align="center"> ☁️ Cloud & IaC (Learning)</p>
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="50" width="50" alt="aws logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="50" width="50" alt="kubernetes logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="50" width="50" alt="terraform logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" height="50" width="50" alt="ansible logo" />
+  <img src="https://www.vectorlogo.zone/logos/argoprojio/argoprojio-icon.svg" height="50" width="50" alt="argocd logo" />
+</div></br>
+
+### <p align="center"> 💻 Programming & Scripting</p>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="50" width="50" alt="c logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="50" width="50" alt="cpp logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" width="50" alt="python logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="50" width="50" alt="bash logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" width="50" alt="javascript logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="50" width="50" alt="typescript logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="50" width="50" alt="tailwind logo" />
 </div></br>
 
-
-### <p align="center"> 🐳 DevOps & Containerization</p>
+### <p align="center"> 🔧 Tools & Version Control</p>
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="50" width="50" alt="docker logo" />
-  <img src="https://raw.githubusercontent.com/docker/compose/v2/logo.png" height="50" width="50" alt="docker compose logo" />
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" height="50" width="50" alt="git logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="50" width="50" alt="github logo" />
-</div></br>
-
-
-### <p align="center"> 📊 Monitoring & Observability</p>
-<div align="center">
-  <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" height="50" width="50" alt="elasticsearch logo" />
-  <img src="https://www.vectorlogo.zone/logos/elasticco_logstash/elasticco_logstash-icon.svg" height="50" width="50" alt="logstash logo" />
-  <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" height="50" width="50" alt="kibana logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" height="50" width="50" alt="prometheus logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="50" width="50" alt="grafana logo" />
-</div></br>
-
-
-### <p align="center"> 🌐 Web Development</p>
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" width="50" alt="html5 logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" width="50" alt="css3 logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="50" width="50" alt="linux logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="50" width="50" alt="vscode logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="50" width="50" alt="figma logo" />
 </div></br>
 
+</br>
+
+## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/PC.gif" width="30"> DevOps Journey
+
+### ✅ Production Experience
+- **🐳 Docker Swarm** - Production orchestration for Glasck (14-container stack)
+- **📊 Full Observability Stack** - Prometheus, Grafana, Loki, Promtail + 4 exporters
+- **🔄 Deployment Automation** - Taskfile & Shell scripting
+- **🌐 Reverse Proxy** - Traefik with SSL/TLS termination
+- **💾 Databases** - PostgreSQL (bare-metal), Redis (cache layer)
+- **📈 Monitoring** - Real-time dashboards, alerting, centralized logging
+
+### 🚀 Currently Learning
+- **☁️ AWS Cloud** - EC2, S3, VPC, IAM, RDS, CloudWatch (École 42 Cloud-1 project)
+- **⚙️ Kubernetes** - K3s/K3d clusters, pod orchestration (École 42 IoT project)
+- **🔄 GitOps** - Argo CD for declarative infrastructure
+- **🏗️ Infrastructure as Code** - Terraform & Ansible automation
+- **🔐 Cloud Security** - IAM policies, secrets management, network segmentation
+
+### 🎯 Next Steps
+- **📦 CI/CD Pipelines** - Automated testing, building, deployment
+- **📊 Advanced Observability** - Distributed tracing, APM
+- **🔒 Security Hardening** - Container security, vulnerability scanning
+- **📈 High Availability** - Multi-node clusters, load balancing
 
 </br>
 
-## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/PC.gif" width="30"> DevOps Skills
-
-### 📚 Learned
-- **🐳 Docker & Docker Compose** - Container orchestration
-- **📊 ELK Stack** - Log management and analysis
-- **📈 Prometheus & Grafana** - Metrics collection and visualization
-- **🔭 Google Analytics** - Installing Google Analytics.
-
-### 🚀 Coming Next
-- **🔄 CI/CD Pipelines** - GitHub Actions automation
-- **🏗️ Terraform** - Infrastructure as Code
-- **☁️ Cloud Platforms** - AWS fundamentals
-- **⚙️ Kubernetes** - Container orchestration at scale
-
-</br>
-
-## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="30"> My Projects
+## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="30"> Featured Projects
 
 </br>
 
 <div align="center">
-  <a href=[https://github.com/TuroTheReal/Transcendence">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TuroTheReal&repo=Transcendence&theme=radical" alt="transcendence" />
+  <a href="https://github.com/TuroTheReal/Transcendence">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TuroTheReal&repo=Transcendence&theme=radical" alt="Transcendence" />
   </a>
   <a href="https://github.com/TuroTheReal/inception">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TuroTheReal&repo=inception&theme=radical" alt="inception" />
-  </a>
-  <a href="https://github.com/TuroTheReal/minishell">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TuroTheReal&repo=minishell&theme=radical" alt="minishell" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TuroTheReal&repo=inception&theme=radical" alt="Inception" />
   </a>
 </div>
+
+</br>
+
+### 🎮 Glasck - Production eSports Platform
+**Role:** Infrastructure Lead & DevOps Engineer  
+**Tech Stack:** Docker Swarm, Traefik, Redis, PostgreSQL, Prometheus, Grafana, Loki, Promtail, Shell
+
+- 🏗️ **14-container production infrastructure** with full orchestration
+- 📊 **Cloud-native monitoring** with Prometheus + 4 exporters (Cadvisor, Node, Redis, Traefik, PostgreSQL)
+- 📈 **Real-time observability** with Grafana dashboards & Loki log aggregation
+- ⚡ **99.5% uptime** with proactive alerting
+- 🔄 **Automated deployments** with minimal downtime (<30s)
+- 💰 **Cost-optimized** infrastructure (~40€/month)
+
+**[Visit Glasck →](https://glasck.com)**
+
+</br>
 
 ## <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="30"> GitHub Stats
 
 </br>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TuroTheReal&show_icons=true&count_private=true&theme=radical" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TuroTheReal&layout=compact&theme=radical" alt="Top Languages"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TuroTheReal&show_icons=true&count_private=true&theme=radical&hide_border=true" alt="GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TuroTheReal&layout=compact&theme=radical&hide_border=true" alt="Top Languages"/>
 </div>
 
 </br>
 
-## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="30"> 2025/2026 DevOps Goals
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TuroTheReal&theme=radical&hide_border=true" alt="GitHub Streak" />
+</div>
 
-- ✅ Master Docker containerization
-- ✅ Implement complete monitoring with logs, metrics & analytics (Elastic & Grafana Stacks, Google Analytics)
-- 🎯 Build automated CI/CD pipelines
-- 🎯 Start Infrastructure as Code with Terraform
-- 🎯 Learn AWS cloud fundamentals
-- 🎯 Explore Kubernetes basics
+</br>
+
+## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="30"> 2025 DevOps Roadmap
+
+- ✅ Master Docker containerization & orchestration
+- ✅ Deploy production infrastructure with full observability
+- ✅ Implement comprehensive monitoring (Prometheus, Grafana, Loki, ELK)
+- ✅ Automate deployment workflows
+- 🎯 Build CI/CD pipelines with automated testing & security scanning
+- 🎯 Master Infrastructure as Code (Terraform + Ansible)
+- 🎯 Deep dive into AWS cloud services
+- 🎯 Learn Kubernetes orchestration & GitOps (Argo CD)
+- 🎯 Obtain AWS certifications (Solutions Architect Associate)
 
 </br>
 
@@ -132,5 +174,5 @@
 ---
 
 <div align="center">
-  <i>🚀 "Every expert was once a beginner" 🚀</i>
+  <i>🚀 "Building reliable infrastructure, one container at a time" 🚀</i>
 </div>
