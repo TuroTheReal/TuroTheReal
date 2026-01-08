@@ -45,7 +45,8 @@
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" height="50" width="50" alt="prometheus logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="50" width="50" alt="grafana logo" />
-  <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" height="50" width="50" alt="loki logo" />
+  <img src="https://www.vectorlogo.zone/logos/grafana/alloy-icon.svg" height="50" width="50" alt="loki logo" />
+    <img src="https://www.vectorlogo.zone/logos/grafana/loki-icon.svg" height="50" width="50" alt="loki logo" />
   <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" height="50" width="50" alt="elasticsearch logo" />
   <img src="https://www.vectorlogo.zone/logos/elasticco_logstash/elasticco_logstash-icon.svg" height="50" width="50" alt="logstash logo" />
   <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" height="50" width="50" alt="kibana logo" />
