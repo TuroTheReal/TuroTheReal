@@ -89,7 +89,6 @@
 - **📊 Full Observability Stack** - Prometheus, Grafana, Loki, Promtail + 4 exporters
 - **🔄 Deployment Automation** - Taskfile & Shell scripting
 - **🌐 Reverse Proxy** - Traefik with SSL/TLS termination
-- **💾 Databases** - PostgreSQL (bare-metal), Redis (cache layer)
 - **📈 Monitoring** - Real-time dashboards, alerting, centralized logging
 
 ### 🚀 Currently Learning
@@ -140,15 +139,15 @@
 
 ## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="30"> 2025 DevOps Roadmap
 
-- ✅ Master Docker containerization & orchestration
-- ✅ Deploy production infrastructure with full observability
-- ✅ Implement comprehensive monitoring (Prometheus, Grafana, Loki, ELK)
+- ✅ Deploy Docker containerization & orchestration
+- ✅ Create production infrastructure with full observability
+- ✅ Implement comprehensive monitoring (Prometheus, Grafana, Loki, Alloy)
 - ✅ Automate deployment workflows
+- ✅ Dive into AWS cloud services
+- ✅ Learned Infrastructure as Code (Terraform + Ansible)
 - 🎯 Build CI/CD pipelines with automated testing & security scanning
-- 🎯 Master Infrastructure as Code (Terraform + Ansible)
-- 🎯 Deep dive into AWS cloud services
 - 🎯 Learn Kubernetes orchestration & GitOps (Argo CD)
-- 🎯 Obtain AWS certifications (Solutions Architect Associate)
+- 🎯 Obtain certifications (Solutions Architect Associate, Kubernetes, Hashicorp)
 
 </br>
 
