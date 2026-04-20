@@ -33,29 +33,29 @@
 
 </br>
 
-### <p align="center"> 🐳 DevOps & Infrastructure</p>
+### 🐳 DevOps & Infrastructure
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="50" width="50" alt="docker logo" /><img src="https://raw.githubusercontent.com/docker/compose/v2/logo.png" height="50" width="50" alt="docker compose logo" /><img src="https://www.vectorlogo.zone/logos/traefikio/traefikio-icon.svg" height="50" width="50" alt="traefik logo" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="50" width="50" alt="redis logo" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="50" width="50" alt="postgresql logo" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="50" width="50" alt="nginx logo" />
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=docker,redis,postgres,nginx" alt="DevOps stack" /></a>
 </p>
 
-### <p align="center"> 📊 Monitoring & Observability</p>
+### 📊 Monitoring & Observability
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" height="50" width="50" alt="prometheus logo" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="50" width="50" alt="grafana logo" /><img src="https://raw.githubusercontent.com/grafana/alloy/main/docs/sources/assets/alloy_icon_orange.svg" height="50" width="50" alt="alloy logo" /><img src="https://grafana.com/static/img/logos/logo-loki.svg" height="50" width="50" alt="loki logo" /><img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" height="50" width="50" alt="elasticsearch logo" /><img src="https://www.vectorlogo.zone/logos/elasticco_logstash/elasticco_logstash-icon.svg" height="50" width="50" alt="logstash logo" /><img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" height="50" width="50" alt="kibana logo" />
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=prometheus,grafana,elasticsearch,kibana" alt="Monitoring stack" /></a>
 </p>
 
-### <p align="center"> ☁️ Cloud & IaC (Learning)</p>
+### ☁️ Cloud & IaC (Learning)
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="50" width="50" alt="aws logo" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="50" width="50" alt="kubernetes logo" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="50" width="50" alt="terraform logo" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" height="50" width="50" alt="ansible logo" /><img src="https://www.vectorlogo.zone/logos/argoprojio/argoprojio-icon.svg" height="50" width="50" alt="argocd logo" />
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=aws,kubernetes,terraform,ansible" alt="Cloud & IaC stack" /></a>
 </p>
 
-### <p align="center"> 💻 Programming & Scripting</p>
+### 💻 Programming & Scripting
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="50" width="50" alt="c logo" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="50" width="50" alt="cpp logo" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" width="50" alt="python logo" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="50" width="50" alt="bash logo" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" width="50" alt="javascript logo" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="50" width="50" alt="typescript logo" />
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=c,cpp,python,bash,js,ts" alt="Programming languages" /></a>
 </p>
 
-### <p align="center"> 🔧 Tools & Version Control</p>
+### 🔧 Tools & Version Control
 <p align="center">
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" height="50" width="50" alt="git logo" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="50" width="50" alt="github logo" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="50" width="50" alt="linux logo" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="50" width="50" alt="vscode logo" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="50" width="50" alt="figma logo" />
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git,github,linux,vscode,figma" alt="Tools" /></a>
 </p>
 
 </br>
