@@ -63,7 +63,7 @@
 ## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/PC.gif" width="30"> DevOps Journey
 
 ### ✅ Production Experience
-- **🐳 Docker Swarm** - Production orchestration for Glasck (14-container stack)
+- **🐳 Docker Swarm** - Production orchestration for Glasck (16-container stack)
 - **📊 Full Observability Stack** - Prometheus, Grafana, Loki, Promtail + 4 exporters
 - **🔄 Deployment Automation** - Taskfile & Shell scripting
 - **🌐 Reverse Proxy** - Traefik with SSL/TLS termination
