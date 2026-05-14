@@ -13,9 +13,9 @@
 <div align="center">  
   <p align="left" style="margin-left: 20px; line-height: 1.6;">
     • 🎮 <a href="https://glasck.com">Glasck: Production eSports platform with full DevOps stack</a></br>
-    • 🔭 <a href="https://arthur-portfolio.com/?utm_source=github&utm_medium=repository&utm_campaign=portfolio&utm_content=readme_link">Discover my portfolio</a></br>
-    • 📝 <a href="https://arthur-portfolio.com/en/blog?utm_source=github&utm_medium=profile&utm_campaign=blog">Read my blog</a> — DevOps/Cloud learning journey</br>
-    • 🛰️ <a href="https://arthur-portfolio.com/en/tech-radar?utm_source=github&utm_medium=profile&utm_campaign=tech_radar">Tech Radar</a> — Weekly automated tech watch</br>
+    • 🔭 <a href="https://arthurbernard.dev/?utm_source=github&utm_medium=repository&utm_campaign=portfolio&utm_content=readme_link">Discover my portfolio</a></br>
+    • 📝 <a href="https://arthurbernard.dev/en/blog?utm_source=github&utm_medium=profile&utm_campaign=blog">Read my blog</a> — DevOps/Cloud learning journey</br>
+    • 🛰️ <a href="https://arthurbernard.dev/en/tech-radar?utm_source=github&utm_medium=profile&utm_campaign=tech_radar">Tech Radar</a> — Weekly automated tech watch</br>
     • 🚀 DevOps/Cloud Engineer intern at <a href="https://alan.com">Alan</a></br>
     • 🌱 Transcender at École 42 Paris - DevOps & Cloud specialization</br>
     • 🐳 Running production infrastructure with Docker Swarm & full observability</br>
@@ -103,15 +103,15 @@
 
 ## <img src="https://media.giphy.com/media/l3q2K5jinAlChoCLS/giphy.gif" width="30"> Writing
 
-I document my DevOps/Cloud learning journey on [my blog](https://arthur-portfolio.com/en/blog) (bilingual EN/FR):
+I document my DevOps/Cloud learning journey on [my blog](https://arthurbernard.dev/en/blog) (bilingual EN/FR):
 
-- 📝 [My DevOps/Cloud Engineer Roadmap](https://arthur-portfolio.com/en/blog/devops-roadmap) — 6-month plan from 42 to DevOps/Cloud
-- 📝 [Landing a DevOps Internship at Alan](https://arthur-portfolio.com/en/blog/landing-alan-internship) — Interview process and feedback
-- 📝 [Building a Learning System with Obsidian + Claude](https://arthur-portfolio.com/en/blog/obsidian-claude-learning-system) — Personal knowledge vault
-- 📝 [AWS + Terraform + Ansible: Infrastructure as Code](https://arthur-portfolio.com/en/blog/aws-terraform-ansible) — Deep dive on IaC automation
+- 📝 [My DevOps/Cloud Engineer Roadmap](https://arthurbernard.dev/en/blog/devops-roadmap) — 6-month plan from 42 to DevOps/Cloud
+- 📝 [Landing a DevOps Internship at Alan](https://arthurbernard.dev/en/blog/landing-alan-internship) — Interview process and feedback
+- 📝 [Building a Learning System with Obsidian + Claude](https://arthurbernard.dev/en/blog/obsidian-claude-learning-system) — Personal knowledge vault
+- 📝 [AWS + Terraform + Ansible: Infrastructure as Code](https://arthurbernard.dev/en/blog/aws-terraform-ansible) — Deep dive on IaC automation
 
 I also publish a weekly automated tech radar — cloud, DevOps, AI, security news curated every Saturday:
-**[→ Tech Radar](https://arthur-portfolio.com/en/tech-radar)**
+**[→ Tech Radar](https://arthurbernard.dev/en/tech-radar)**
 
 </br>
 
