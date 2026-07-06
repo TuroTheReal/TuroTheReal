@@ -137,7 +137,7 @@ I also publish a weekly automated tech radar — cloud, DevOps, AI, security new
 - ✅ Automate deployment workflows
 - ✅ Dive into AWS cloud services
 - ✅ Learned Infrastructure as Code (Terraform + Ansible)
-- 🎯 Build CI/CD pipelines with automated testing & security scanning
+- ✅ Build CI/CD pipelines with automated testing & security scanning
 - 🎯 Learn Kubernetes orchestration & GitOps (Argo CD)
 - 🎯 Obtain certifications (Solutions Architect Associate, Kubernetes, Hashicorp)
 
