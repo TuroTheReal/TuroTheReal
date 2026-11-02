@@ -6,7 +6,7 @@
 
 ## 🛠️ What I do
 
-**Infrastructure** for startups, agencies and dev teams without an ops person:
+**Infrastructure** for startups, agencies and dev teams:
 
 - **Deployment automation**: CI/CD pipeline, secrets out of the repo, documented rollback
 - **Monitoring**: dashboards, alerts that matter, logs and traces, handed over to your team
