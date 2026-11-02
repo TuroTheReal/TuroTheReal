@@ -14,7 +14,7 @@
 - **Hosting migration**: app by app cutover, rollback ready at every step
 - **DevOps audit**: one day on your production without changing anything, written report ranked by severity
 
-**AI assistant setup** (pilot phase) for small businesses and freelancers: an assistant connected to your workspace (Notion, mailbox, connectors), with a daily digest. You keep your own accounts and subscriptions.
+**AI assistant setup** (pilot phase) for small businesses and freelancers: spend less time sorting, reading and answering email. An assistant connected to your workspace (Notion, mailbox, connectors), with a daily digest. You keep your own accounts and subscriptions.
 
 Out of scope, always: on-call and 24/7 operations.
 
